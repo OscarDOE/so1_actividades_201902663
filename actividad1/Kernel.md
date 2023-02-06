@@ -7,9 +7,8 @@
  
  El kernel solo funciona como intermediario entre el software del sistema, el de la aplicación y las bibliotecas necesarias, debido a que solo con la carga del sistema operativo, ya es demasiado trabajo, por lo que la interfaz gráfica es totalmente independiente del 
  
- # Tipos de Kernel
- 
- > Existen varios tipos de kernel, pero entre los más importantes se encuentran:
+ > Tipos de Kernel:
+ Existen varios tipos de kernel, pero entre los más importantes se encuentran:
  1. Monolítico:
  Un kernel único y grande para que maneje todas las tareas. Tiene un gran rendimiento para todo, por lo que al añadir un nuevo servicio este tendrá que compilarse de nuevo, por lo que puede ser rápido, pero si llega a ocurrir algún error, este parará toda operación.
  2. Microkernel:
@@ -17,4 +16,10 @@
  Al ser "micro", para que todas las funcioes del kernel monolítico fueran adaptadas, todos los otros servicios se ejecutan como otros procesos, y si alguno fallase cumpliera el cometido principal.
  Unas de las desventajas, como siempre para algo que tiende a mejorar, es que es de mayor complejidad de programación y sincronización entre los módulos que componen el microkernel y su acceso a la memoria. Al ser de menor tamaño, tiende a tener un menor rendimiento que uno completo.
  3. Kernel Híbrido
- Como su nombre lo indica es una combinación de 2 o más sistemas, en este caso, del monolítico y el MicroKernel, en donde se usa el kernel grande, con la respuesta más eficaz al basarse en memoria compartida y este mismo es modular, por lo que los procesos pueden ser detenidos sin tener que involucrar a todo el sistema-
+ Como su nombre lo indica es una combinación de 2 o más sistemas, en este caso, del monolítico y el MicroKernel, en donde se usa el kernel grande, con la respuesta más eficaz al basarse en memoria compartida y este mismo es modular, por lo que los procesos pueden ser detenidos sin tener que involucrar a todo el sistema.
+ 
+ # Modo User vs Modo Kernel
+ 
+ - El modo usuario, es practicamente como funcionan los microkernel, en el sentido en que trabaja en procesos separados, ya que trabajan en direcciones virturales por separado, por lo que si un proceso falla, no todo el sistema fallará, a diferencia del modo kernel.
+ - El modo kernel, es prácticamente el modo "Administrador", mientras que el modo usuario tendrá las restricciones necesarias.
+ - El modo usuario no podrá acceder a todas las apliaciones, en comparación al modo kernel, que este tendrá acceso a todo lo que contenga el sistema.
