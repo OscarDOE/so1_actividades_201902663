@@ -7,8 +7,9 @@
  
  El kernel solo funciona como intermediario entre el software del sistema, el de la aplicación y las bibliotecas necesarias, debido a que solo con la carga del sistema operativo, ya es demasiado trabajo, por lo que la interfaz gráfica es totalmente independiente del 
  
- > Tipos de Kernel:
- Existen varios tipos de kernel, pero entre los más importantes se encuentran:
+ # Tipos de Kernel
+ 
+ > Existen varios tipos de kernel, pero entre los más importantes se encuentran:
  1. Monolítico:
  Un kernel único y grande para que maneje todas las tareas. Tiene un gran rendimiento para todo, por lo que al añadir un nuevo servicio este tendrá que compilarse de nuevo, por lo que puede ser rápido, pero si llega a ocurrir algún error, este parará toda operación.
  2. Microkernel:
