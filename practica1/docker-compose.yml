@@ -1,14 +1,8 @@
 version: '3.3'
 
 services:
-  mysql:
-    image: mysql:latest
-    environment:
-      - MYSQL_DATABASE=pruebascalcu
-      - MYSQL_USER=root
-      - MYSQL_ROOT_PASSWORD=adminoscar
-      - MYSQL_PORT=3306
+  frontend:
+    image: 7771512001/front_so1_practica1_1s2023
     ports:
-      - 3306:3306
-    volumes:
-      - ./mysql_data:/var/lib/mysql
+      - 3000:3000
+    restart: always

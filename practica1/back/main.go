@@ -28,7 +28,7 @@ var g bool = false
 
 func GetHistoryEndpoint(w http.ResponseWriter, req *http.Request) {
 
-	db, err := sql.Open("mysql", "root:adminoscar@tcp(localhost:3306)/pruebascalcu")
+	db, err := sql.Open("mysql", "oscar:adminoscar@tcp(db:3306)/pruebascalcu")
 	if err != nil {
 		fmt.Println("Error validatinfg sql.Open arguments")
 		panic(err.Error())
@@ -88,7 +88,7 @@ func CreateHistoryEndpoint(w http.ResponseWriter, req *http.Request) {
 	fmt.Println("HISTORY", history)
 	//json.NewEncoder(w).Encode(history)
 
-	db, err := sql.Open("mysql", "root:adminoscar@tcp(localhost:3306)/pruebascalcu")
+	db, err := sql.Open("mysql", "oscar:adminoscar@tcp(db:3306)/pruebascalcu")
 	if err != nil {
 		fmt.Println("Error validatinfg sql.Open arguments")
 		panic(err.Error())
@@ -207,8 +207,9 @@ func CreateHistoryEndpoint(w http.ResponseWriter, req *http.Request) {
 }
 
 func ExportCsv() error {
+	fmt.Println("ENTRO A EXPORTCSV")
 
-	db, err := sql.Open("mysql", "root:adminoscar@tcp(localhost:3306)/pruebascalcu")
+	db, err := sql.Open("mysql", "oscar:adminoscar@tcp(db:3306)/pruebascalcu")
 	if err != nil {
 		fmt.Println("Error validatinfg sql.Open arguments")
 		panic(err.Error())
@@ -224,13 +225,15 @@ func ExportCsv() error {
 	// Ejecutar una consulta
 	rows, err := db.Query("SELECT num1,operation,num2,resultado,fecha FROM history")
 	if err != nil {
+		fmt.Println("NO DEJO HACER SAELECT, debido a : ", err)
 		return err
 	}
 	defer rows.Close()
 
 	// Abrir un archivo para escribir el resultado
-	file, err := os.Create("history.csv")
+	file, err := os.Create("/home/reportes.csv")
 	if err != nil {
+		fmt.Println("NO SE CRE EL ARCHIVO, debido a : ", err)
 		return err
 	}
 	defer file.Close()
@@ -242,6 +245,7 @@ func ExportCsv() error {
 	// Escribir el encabezado
 	encabezado := []string{"num1", "operation", "num2", "resultado", "fecha"}
 	if err := writer.Write(encabezado); err != nil {
+		fmt.Println("NO SE CREEO ENCABEZADO, debido a : ", err)
 		return err
 	}
 
@@ -253,14 +257,17 @@ func ExportCsv() error {
 		var resultado float64
 		var fecha string
 		if err := rows.Scan(&num1, &operation, &num2, &resultado, &fecha); err != nil {
+			fmt.Println("NO SE PUDO HACER SCAN, debido a : ", err)
 			return err
 		}
 		history := []string{fmt.Sprintf("%.2f", num1), operation, fmt.Sprintf("%.2f", num2), fmt.Sprintf("%.2f", resultado), fecha}
 		if err := writer.Write(history); err != nil {
+			fmt.Println("NO SE WRITEO, debido a : ", err)
 			return err
 		}
 	}
 	if err := rows.Err(); err != nil {
+		fmt.Println("ERROR AL FINAL, debido a : ", err)
 		return err
 	}
 	return nil
@@ -269,7 +276,7 @@ func ExportCsv() error {
 func GetCSV(w http.ResponseWriter, req *http.Request) {
 	err := ExportCsv()
 	if err != nil {
-		fmt.Println("CUALQUIERA")
+		fmt.Println("ME IMAGINO QUE ESTO ES ERROR : ", err)
 		fmt.Fprintf(w, err.Error())
 	}
 	fmt.Println("SSSSS")
