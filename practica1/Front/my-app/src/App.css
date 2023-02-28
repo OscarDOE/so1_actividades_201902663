@@ -75,7 +75,8 @@ h1{
   font-style: oblique;
   background-color: #416815;
   display: grid;
-  grid-template-columns: 150px 150px 150px 150px 150px;
+  grid-template-columns: 300px 300px 300px 300px 300px;
+  
 }
 .grid-history div {
   border: 2px solid black;
