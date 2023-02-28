@@ -1,0 +1,28 @@
+services:
+  mifrontend:
+    image: mifrontend:0.1.0-nginx-alpine
+    ports:
+      - 3000:80
+  mibackend:
+    image: mibackend:0.1.0
+    ports:
+      - 3800:3800
+    environment:
+      - ORACLE_USER=appuser
+      - ORACLE_CONNSTR=mibasededatos:1521/xepdb1
+    env_file:
+      - ./backend/.env
+    restart: always
+  mibasededatos:
+    image: gvenzl/oracle-xe:21.3.0
+    ports:
+      - 1521:1521
+    environment:
+      - APP_USER=appuser
+    env_file:
+      - ./database/.env
+    volumes:
+      - ./database:/container-entrypoint-initdb.d # Init script
+      - oradata:/opt/oracle/oradata # Persistencia
+volumes:
+  oradata:
