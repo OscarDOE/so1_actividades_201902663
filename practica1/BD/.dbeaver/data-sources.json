@@ -1,0 +1,38 @@
+{
+	"folders": {},
+	"connections": {
+		"oracle_thin-186ab5579e0-2ba467267e46ae0": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "ORCL18",
+			"save-password": true,
+			"configuration": {
+				"host": "34.122.145.11",
+				"port": "1521",
+				"database": "ORCL18",
+				"url": "jdbc:oracle:thin:@//34.122.145.11:1521/ORCL18",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			},
+			"custom-properties": {
+				"resultset.maxrows": "20000"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
