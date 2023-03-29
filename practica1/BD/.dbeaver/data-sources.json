@@ -1,0 +1,32 @@
+{
+	"folders": {},
+	"connections": {
+		"mysql8-18724d2acc9-4045844988c3fa54": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "practica2_primera",
+			"save-password": true,
+			"configuration": {
+				"host": "35.232.219.31",
+				"port": "3306",
+				"database": "practica2_primera",
+				"url": "jdbc:mysql://35.232.219.31:3306/practica2_primera",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
