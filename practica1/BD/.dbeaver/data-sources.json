@@ -16,6 +16,22 @@
 				"type": "dev",
 				"auth-model": "native"
 			}
+		},
+		"mysql8-1873011c231-6353c60670cb4cd": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "sopestarea2",
+			"save-password": true,
+			"configuration": {
+				"host": "34.134.48.99",
+				"port": "3306",
+				"database": "sopestarea2",
+				"url": "jdbc:mysql://34.134.48.99:3306/sopestarea2",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"auth-model": "native"
+			}
 		}
 	},
 	"connection-types": {
