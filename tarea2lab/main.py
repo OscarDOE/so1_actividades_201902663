@@ -33,6 +33,10 @@ async def create_games(item: Item):
     return {"item":inserts}
 
 
+
+
+
+
 # @app.get("/")
 # def get_main():
 #     cursor = cnx.cursor()
