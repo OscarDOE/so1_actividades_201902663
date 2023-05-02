@@ -1,0 +1,2669 @@
+[
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Tiquisate",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Siquinalá",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Rosada",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Chicacao",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Rosada",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Rosada",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Olopa",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Mazatenango",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Flores",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "FCN"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Poptún",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Rosada",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Suchitepequez",
+    "municipio": "Patulul",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VAMOS"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Ipala",
+    "papeleta": "Verde",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Amatitlán",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Verde",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Escuintla",
+    "municipio": "Iztapa",
+    "papeleta": "Blanca",
+    "partido": "UNIONISTA"
+  },
+  {
+    "sede": 1,
+    "departamento": "Peten",
+    "municipio": "Dolores",
+    "papeleta": "Rosada",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "San Miguel Petapa",
+    "papeleta": "Blanca",
+    "partido": "UNE"
+  },
+  {
+    "sede": 1,
+    "departamento": "Guatemala",
+    "municipio": "Villa Canales",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  },
+  {
+    "sede": 1,
+    "departamento": "Chiquimula",
+    "municipio": "Quezaltepeque",
+    "papeleta": "Verde",
+    "partido": "VALOR"
+  }
+]
